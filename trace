@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # Tool Name :- IP-Tracer
 # Author :- Zeeshan Ali
-# Date :- 05/06/2026
-
+# Date :- 22/07/2026
 case "$1" in
   -m)
     php modules/.tracem.php

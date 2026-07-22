@@ -1,6 +1,6 @@
 # Tool Name :- IP-Tracer
-# Author :- Zeeshan Ali
-# Date :- 05/06/2026
+# Author :- Zeeshan ALi
+# Date :- 22/07/2026
 
 if [ -e  /usr/lib/sudo ];then
   if [ ! -e /usr/bin/php ];then

@@ -1,7 +1,7 @@
-# Tool Name :- IP-Traker
+# Tool Name :- IP-Tracer
 # Author :- Zeeshan Ali
-# Date :- 10/10/2025
-# Powered By :- ZF SOFTWAERs
+# Date :- 22/07/2026
+# Powered By :- ZA Developers
 if [ -d /data/data/com.termux/files/usr/share ];then
   cd /data/data/com.termux/files/usr/share/IP-Tracer
   exec bash trace $@
